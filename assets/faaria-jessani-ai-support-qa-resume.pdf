@@ -3,53 +3,271 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R] /Count 4 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 850] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 4 0 R >>
 endobj
 4 0 obj
-<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
-endobj
-5 0 obj
-<< /Length 2072 >>
+<< /Length 5469 >>
 stream
-BT /F1 22 Tf 54 800 Td (Faaria Jessani Resume Summary) Tj ET
-BT /F1 16 Tf 54 752 Td (Faaria Jessani) Tj ET
-BT /F1 11 Tf 54 729 Td (AI Automation Consultant | PMP | Business-first AI workflow automation and AI support) Tj ET
-BT /F1 11 Tf 54 711 Td (quality) Tj ET
-BT /F1 11 Tf 54 675 Td (Profile: Implementation-focused professional combining enterprise project management,) Tj ET
-BT /F1 11 Tf 54 657 Td (SaaS onboarding, SOP/documentation, business analysis, and hands-on AI automation with) Tj ET
-BT /F1 11 Tf 54 639 Td (Claude, n8n, Hermes, Gemini Search, and Google Workspace.) Tj ET
-BT /F1 16 Tf 54 595 Td (Relevant strengths) Tj ET
-BT /F1 11 Tf 54 572 Td (- AI workflow automation and practical AI adoption for non-technical teams.) Tj ET
-BT /F1 11 Tf 54 554 Td (- Quality-aware AI agent design: prompts, guardrails, handoff logic, tool usage, and) Tj ET
-BT /F1 11 Tf 54 536 Td (structured outputs.) Tj ET
-BT /F1 11 Tf 54 518 Td (- Operational reporting: dashboards, summary CSVs, KPI monitoring, and executive-ready) Tj ET
-BT /F1 11 Tf 54 500 Td (insights.) Tj ET
-BT /F1 11 Tf 54 482 Td (- Stakeholder-heavy delivery: requirements, documentation, rollout, adoption support,) Tj ET
-BT /F1 11 Tf 54 464 Td (and risk management.) Tj ET
-BT /F1 16 Tf 54 420 Td (Selected AI projects) Tj ET
-BT /F1 11 Tf 54 397 Td (- Claude monthly sales analytics pipeline: CSV cleaning, merge validation, KPI) Tj ET
-BT /F1 11 Tf 54 379 Td (summaries, HTML dashboards, and executive PPTs.) Tj ET
-BT /F1 11 Tf 54 361 Td (- n8n MCP CRM agent: natural-language CRUD actions on Google Sheets with get-before-) Tj ET
-BT /F1 11 Tf 54 343 Td (update/delete safeguards.) Tj ET
-BT /F1 11 Tf 54 325 Td (- PORR multi-agent workflow: Problem, Options, Risks, Recommendation agents grounded by) Tj ET
-BT /F1 11 Tf 54 307 Td (Gemini Search.) Tj ET
-BT /F1 11 Tf 54 289 Td (- AI Workflow Automation engagement: 4A AI Efficiency Method for assessing, aligning,) Tj ET
-BT /F1 11 Tf 54 271 Td (automating, and adopting practical workflows.) Tj ET
-BT /F1 11 Tf 54 235 Td (Contact: faariajess@gmail.com) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 18 Tf 48 750.0 Td (FAARIA JESSANI) Tj ET
+0 0 0 rg
+BT /F1 9.2 Tf 48 728.0 Td (Toronto, Ontario, Canada | 647-561-2389 | faariaj786@gmail.com | LinkedIn:) Tj ET
+BT /F1 9.2 Tf 48 716.2 Td (https://www.linkedin.com/in/faariaj/ | Portfolio: https://faaria-ai-support-qa-) Tj ET
+BT /F1 9.2 Tf 48 704.4 Td (portfolio.vercel.app) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 678.6 Td (AI SUPPORT QUALITY ANALYST | AI WORKFLOW AUTOMATION | CUSTOMER EXPERIENCE OPERATIONS | PMP) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 671.6 m 564 671.6 l S 0 0 0 RG
+BT /F1 9.2 Tf 48 659.6 Td (Customer-focused implementation and project management professional with experience across) Tj ET
+BT /F1 9.2 Tf 48 647.8 Td (enterprise technology delivery, SaaS-style onboarding, customer support operations, business) Tj ET
+BT /F1 9.2 Tf 48 636.0 Td (analysis, documentation, and AI-enabled workflow automation. Strong fit for AI Support) Tj ET
+BT /F1 9.2 Tf 48 624.2 Td (Quality and Automated Customer Experience roles requiring interaction review, escalation) Tj ET
+BT /F1 9.2 Tf 48 612.4 Td (analysis, QA trend identification, policy adherence monitoring, and cross-functional) Tj ET
+BT /F1 9.2 Tf 48 600.6 Td (improvement of AI agent behavior.) Tj ET
+BT /F1 9.2 Tf 48 581.8 Td (Hands-on experience building and documenting AI workflows using n8n, Claude, Gemini Search,) Tj ET
+BT /F1 9.2 Tf 48 570.0 Td (Google Workspace, and Hermes, including multi-agent workflows, CRM automation, reporting) Tj ET
+BT /F1 9.2 Tf 48 558.2 Td (pipelines, and guardrail-focused agent prompts. Known for translating business and customer) Tj ET
+BT /F1 9.2 Tf 48 546.4 Td (problems into clear workflows, SOPs, risk controls, training materials, and operational) Tj ET
+BT /F1 9.2 Tf 48 534.6 Td (reporting that teams can adopt.) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 508.8 Td (CORE SKILLS) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 501.8 m 564 501.8 l S 0 0 0 RG
+BT /F1 8.8 Tf 58 489.8 Td (? AI agent quality review and conversational evaluation) Tj ET
+BT /F1 8.8 Tf 58 478.4 Td (? AI workflow automation using n8n, Claude, Gemini Search, ChatGPT, Microsoft Copilot,) Tj ET
+BT /F1 8.8 Tf 58 467.0 Td (  Hermes, and Zapier) Tj ET
+BT /F1 8.8 Tf 58 455.6 Td (? Customer support operations, customer onboarding, and issue escalation) Tj ET
+BT /F1 8.8 Tf 58 444.2 Td (? QA, UAT, release validation, configuration support, and implementation testing) Tj ET
+BT /F1 8.8 Tf 58 432.8 Td (? Policy adherence, risk identification, documentation, and governance-aware AI adoption) Tj ET
+BT /F1 8.8 Tf 58 421.4 Td (? Operational reporting, KPI tracking, executive reporting, dashboards, and trend analysis) Tj ET
+BT /F1 8.8 Tf 58 410.0 Td (? Process improvement, workflow mapping, SOPs, user guides, and knowledge base content) Tj ET
+BT /F1 8.8 Tf 58 398.6 Td (? Cross-functional collaboration with Product, Operations, Engineering, vendors, and) Tj ET
+BT /F1 8.8 Tf 58 387.2 Td (  business stakeholders) Tj ET
+BT /F1 8.8 Tf 58 375.8 Td (? Project governance, RAID logs, stakeholder communications, change control, and go-live) Tj ET
+BT /F1 8.8 Tf 58 364.4 Td (  support) Tj ET
+BT /F1 8.8 Tf 58 353.0 Td (? CRM and platform exposure including Salesforce, ServiceNow, Google Workspace, Microsoft) Tj ET
+BT /F1 8.8 Tf 58 341.6 Td (  365, Jira, Asana, Monday.com, Trello, and Microsoft Project) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 316.2 Td (SELECTED AI PROJECTS) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 309.2 m 564 309.2 l S 0 0 0 RG
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 293.2 Td (Independent AI Workflow Automation Portfolio) Tj ET
+0 0 0 rg
+BT /F1 9.2 Tf 48 280.2 Td (January 2026 - Present) Tj ET
+BT /F1 8.8 Tf 58 261.4 Td (? Built a portfolio of AI-enabled workflow automation projects focused on reducing manual) Tj ET
+BT /F1 8.8 Tf 58 250.0 Td (  effort, improving data flow, strengthening operational consistency, and supporting) Tj ET
+BT /F1 8.8 Tf 58 238.6 Td (  practical AI adoption for non-technical teams.) Tj ET
+BT /F1 8.8 Tf 58 227.2 Td (? Designed an AI Workflow Automation engagement using the 4A AI Efficiency Method: Assess,) Tj ET
+BT /F1 8.8 Tf 58 215.8 Td (  Align, Automate, and Adopt.) Tj ET
+BT /F1 8.8 Tf 58 204.4 Td (? Created AI workflow assessment frameworks to identify automation opportunities based on) Tj ET
+BT /F1 8.8 Tf 58 193.0 Td (  repetition, customer/business impact, data readiness, operational risk, and adoption) Tj ET
+BT /F1 8.8 Tf 58 181.6 Td (  effort.) Tj ET
+BT /F1 8.8 Tf 58 170.2 Td (? Developed a Super.com-targeted AI Support QA portfolio landing page showcasing AI) Tj ET
+BT /F1 8.8 Tf 58 158.8 Td (  workflow automation, n8n agents, Claude analytics pipelines, and AI quality review) Tj ET
+BT /F1 8.8 Tf 58 147.4 Td (  frameworks.) Tj ET
+BT /F1 8.8 Tf 58 136.0 Td (? Built a sample AI Support QA scorecard to evaluate intent recognition, policy adherence,) Tj ET
+BT /F1 8.8 Tf 58 124.6 Td (  resolution quality, escalation handling, conversation quality, hallucination risk, and) Tj ET
+BT /F1 8.8 Tf 58 113.2 Td (  business insight capture.) Tj ET
+BT /F1 8.8 Tf 58 101.8 Td (? Evaluated AI tools including Claude, ChatGPT, Microsoft Copilot, Gemini Search, n8n,) Tj ET
+BT /F1 8.8 Tf 58 90.4 Td (  Zapier, and Hermes for practical business and customer support applications.) Tj ET
+BT /F1 8.8 Tf 58 79.0 Td (? Pursuing AI Governance Professional \(AIGP\) certification to strengthen responsible AI,) Tj ET
+BT /F1 8.8 Tf 58 67.6 Td (  risk, and governance awareness.) Tj ET
 endstream
 endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 5706 >>
+stream
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 746.0 Td (Claude Monthly Sales Analytics Pipeline) Tj ET
+0 0 0 rg
+BT /F1 8.8 Tf 58 733.0 Td (? Built a repeatable Claude-assisted analytics pipeline that cleans monthly sales and) Tj ET
+BT /F1 8.8 Tf 58 721.6 Td (  inventory CSV files, standardizes order IDs and SKUs, merges datasets, validates row) Tj ET
+BT /F1 8.8 Tf 58 710.2 Td (  matching, and produces summary outputs.) Tj ET
+BT /F1 8.8 Tf 58 698.8 Td (? Generated KPI reporting by product, category, and customer, including orders, revenue,) Tj ET
+BT /F1 8.8 Tf 58 687.4 Td (  cost, gross profit, margin percentage, top products, top categories, and top customers.) Tj ET
+BT /F1 8.8 Tf 58 676.0 Td (? Produced HTML dashboards and executive PowerPoint summaries to support operational) Tj ET
+BT /F1 8.8 Tf 58 664.6 Td (  monitoring and leadership review.) Tj ET
+BT /F1 8.8 Tf 58 653.2 Td (? Demonstrates ability to build scalable automated reporting frameworks relevant to AI) Tj ET
+BT /F1 8.8 Tf 58 641.8 Td (  support quality monitoring, CSAT trend analysis, containment tracking, and operational) Tj ET
+BT /F1 8.8 Tf 58 630.4 Td (  risk reporting.) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 608.0 Td (n8n MCP CRM Agent with Google Sheets CRUD) Tj ET
+0 0 0 rg
+BT /F1 8.8 Tf 58 595.0 Td (? Built a two-workflow n8n AI system using a user-facing AI Agent, memory, MCP Client, and) Tj ET
+BT /F1 8.8 Tf 58 583.6 Td (  MCP Server workflow to create, read, update, and delete CRM records in Google Sheets.) Tj ET
+BT /F1 8.8 Tf 58 572.2 Td (? Designed safety rules requiring the agent to retrieve rows before update/delete actions) Tj ET
+BT /F1 8.8 Tf 58 560.8 Td (  and use email as a unique identifier to reduce incorrect record changes.) Tj ET
+BT /F1 8.8 Tf 58 549.4 Td (? Documented system prompts, node sequence, test prompts, production safeguards, and) Tj ET
+BT /F1 8.8 Tf 58 538.0 Td (  extension opportunities.) Tj ET
+BT /F1 8.8 Tf 58 526.6 Td (? Relevant to AI support operations because it demonstrates tool-use guardrails, customer) Tj ET
+BT /F1 8.8 Tf 58 515.2 Td (  data handling, escalation logic, and auditability for AI agents acting on operational) Tj ET
+BT /F1 8.8 Tf 58 503.8 Td (  records.) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 481.4 Td (PORR Multi-Agent Decision Workflow) Tj ET
+0 0 0 rg
+BT /F1 8.8 Tf 58 468.4 Td (? Built a Problem -> Options -> Risks -> Recommendation multi-agent workflow in n8n using) Tj ET
+BT /F1 8.8 Tf 58 457.0 Td (  Gemini Search, OpenRouter models, agent tools, memory, and Google Docs output.) Tj ET
+BT /F1 8.8 Tf 58 445.6 Td (? Designed agent prompts requiring search grounding and restricting unsupported) Tj ET
+BT /F1 8.8 Tf 58 434.2 Td (  assumptions, invented examples, or unverified recommendations.) Tj ET
+BT /F1 8.8 Tf 58 422.8 Td (? Structured final outputs into clear sections for problem definition, options, risks, and) Tj ET
+BT /F1 8.8 Tf 58 411.4 Td (  recommendation.) Tj ET
+BT /F1 8.8 Tf 58 400.0 Td (? Relevant to AI quality assurance because it mirrors interaction review workflows that) Tj ET
+BT /F1 8.8 Tf 58 388.6 Td (  identify policy gaps, reasoning failures, risk areas, and improvement opportunities.) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 366.2 Td (Multi-Agent Stock Analysis Workflow) Tj ET
+0 0 0 rg
+BT /F1 8.8 Tf 58 353.2 Td (? Built an n8n multi-agent stock analysis system where an orchestrator coordinates) Tj ET
+BT /F1 8.8 Tf 58 341.8 Td (  Fundamental Analysis and Technical Analysis agents before synthesizing a final view.) Tj ET
+BT /F1 8.8 Tf 58 330.4 Td (? Required both specialist agents to use search before responding, reducing stale or) Tj ET
+BT /F1 8.8 Tf 58 319.0 Td (  hallucinated responses.) Tj ET
+BT /F1 8.8 Tf 58 307.6 Td (? Designed structured outputs including key findings, market sentiment, trend,) Tj ET
+BT /F1 8.8 Tf 58 296.2 Td (  support/resistance, indicator signals, and final summary.) Tj ET
+BT /F1 8.8 Tf 58 284.8 Td (? Demonstrates multi-perspective review, current-data grounding, and structured AI output) Tj ET
+BT /F1 8.8 Tf 58 273.4 Td (  evaluation.) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 248.0 Td (PROFESSIONAL EXPERIENCE) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 241.0 m 564 241.0 l S 0 0 0 RG
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 225.0 Td (Wipro Ltd, Toronto, ON) Tj ET
+0 0 0 rg
+BT /F1 9.2 Tf 48 212.0 Td (PM / Technology Consultant - GTAA Account, Toronto Pearson International Airport) Tj ET
+BT /F1 9.2 Tf 48 200.2 Td (January 2022 - August 2025) Tj ET
+BT /F1 8.8 Tf 58 181.4 Td (? Managed multiple concurrent enterprise technology and operational initiatives supporting) Tj ET
+BT /F1 8.8 Tf 58 170.0 Td (  Toronto Pearson International Airport, overseeing scope, timelines, governance, risk) Tj ET
+BT /F1 8.8 Tf 58 158.6 Td (  management, stakeholder communications, dependencies, and operational delivery.) Tj ET
+BT /F1 8.8 Tf 58 147.2 Td (? Served as the primary liaison between business stakeholders, technical teams, vendors,) Tj ET
+BT /F1 8.8 Tf 58 135.8 Td (  and operational leadership to align requirements, milestones, risks, and implementation) Tj ET
+BT /F1 8.8 Tf 58 124.4 Td (  decisions.) Tj ET
+BT /F1 8.8 Tf 58 113.0 Td (? Led end-to-end onboarding and implementation activities including setup, configuration) Tj ET
+BT /F1 8.8 Tf 58 101.6 Td (  coordination, testing, user training, documentation, early adoption support, and go-live) Tj ET
+BT /F1 8.8 Tf 58 90.2 Td (  readiness.) Tj ET
+BT /F1 8.8 Tf 58 78.8 Td (? Managed project governance including RAID logs, status reporting, action trackers,) Tj ET
+BT /F1 8.8 Tf 58 67.4 Td (  milestone tracking, steering committee updates, project health reviews, and executive) Tj ET
+BT /F1 8.8 Tf 58 56.0 Td (  communications.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5677 >>
+stream
+BT /F1 8.8 Tf 58 750.0 Td (? Proactively identified risks, escalated issues, coordinated mitigation plans, and) Tj ET
+BT /F1 8.8 Tf 58 738.6 Td (  maintained delivery momentum across high-priority initiatives.) Tj ET
+BT /F1 8.8 Tf 58 727.2 Td (? Delivered onboarding and training support for users to improve adoption of business) Tj ET
+BT /F1 8.8 Tf 58 715.8 Td (  systems and operational processes.) Tj ET
+BT /F1 8.8 Tf 58 704.4 Td (? Led customer-facing meetings, documented decisions and action items, and translated) Tj ET
+BT /F1 8.8 Tf 58 693.0 Td (  stakeholder needs into clear next steps for technical and business teams.) Tj ET
+BT /F1 8.8 Tf 58 681.6 Td (? Supported PMO activities as backup to the PMO Lead, including portfolio governance,) Tj ET
+BT /F1 8.8 Tf 58 670.2 Td (  reporting, resource coordination, and delivery best practices.) Tj ET
+BT /F1 8.8 Tf 58 658.8 Td (? Managed scope changes through structured change control while maintaining stakeholder) Tj ET
+BT /F1 8.8 Tf 58 647.4 Td (  alignment and minimizing delivery disruption.) Tj ET
+BT /F1 8.8 Tf 58 636.0 Td (? Conducted lessons-learned sessions and implemented continuous process improvements) Tj ET
+BT /F1 8.8 Tf 58 624.6 Td (  across project delivery.) Tj ET
+BT /F1 8.8 Tf 58 613.2 Td (? Recognized as the most outstanding Project Manager for the GTAA account after successful) Tj ET
+BT /F1 8.8 Tf 58 601.8 Td (  delivery of a critical airport initiative; received a merit salary increase and) Tj ET
+BT /F1 8.8 Tf 58 590.4 Td (  promotion to Consultant.) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 568.0 Td (Toronto Metropolitan University, Ted Rogers School of Management | Diversity Institute, Toronto, ON) Tj ET
+0 0 0 rg
+BT /F1 9.2 Tf 48 555.0 Td (Data Analyst & Project Coordinator) Tj ET
+BT /F1 9.2 Tf 48 543.2 Td (November 2020 - December 2021) Tj ET
+BT /F1 8.8 Tf 58 524.4 Td (? Led vendor onboarding as the main point of contact, providing guidance, resolving) Tj ET
+BT /F1 8.8 Tf 58 513.0 Td (  inquiries, and improving onboarding clarity for internal and external stakeholders.) Tj ET
+BT /F1 8.8 Tf 58 501.6 Td (? Developed user guides, process documentation, and training materials to improve) Tj ET
+BT /F1 8.8 Tf 58 490.2 Td (  onboarding efficiency, process consistency, and user experience.) Tj ET
+BT /F1 8.8 Tf 58 478.8 Td (? Collaborated with legal and procurement teams on vendor contracts, procurement) Tj ET
+BT /F1 8.8 Tf 58 467.4 Td (  activities, RFP templates, vendor oversight, and payment processing.) Tj ET
+BT /F1 8.8 Tf 58 456.0 Td (? Managed stakeholder coordination, project tracking, reporting, scheduling, and) Tj ET
+BT /F1 8.8 Tf 58 444.6 Td (  operational workflows across multiple DEI-focused initiatives and program streams.) Tj ET
+BT /F1 8.8 Tf 58 433.2 Td (? Built reporting trackers to monitor funding allocations, budget utilization, project) Tj ET
+BT /F1 8.8 Tf 58 421.8 Td (  deliverables, and quarterly projections.) Tj ET
+BT /F1 8.8 Tf 58 410.4 Td (? Trained staff on procurement workflows, contract processes, reporting procedures, and) Tj ET
+BT /F1 8.8 Tf 58 399.0 Td (  operational documentation.) Tj ET
+0.04 0.12 0.20 rg
+BT /F2 10.5 Tf 48 376.6 Td (Priority Car Financing, North York, ON) Tj ET
+0 0 0 rg
+BT /F1 9.2 Tf 48 363.6 Td (Credit Analyst & Customer Support) Tj ET
+BT /F1 9.2 Tf 48 351.8 Td (May 2019 - October 2020) Tj ET
+BT /F1 8.8 Tf 58 333.0 Td (? Reviewed customer credit applications, supporting documentation, eligibility) Tj ET
+BT /F1 8.8 Tf 58 321.6 Td (  requirements, and case details to determine appropriate lending outcomes.) Tj ET
+BT /F1 8.8 Tf 58 310.2 Td (? Investigated discrepancies and gathered additional information from clients,) Tj ET
+BT /F1 8.8 Tf 58 298.8 Td (  dealerships, and lending partners to support accurate decision-making.) Tj ET
+BT /F1 8.8 Tf 58 287.4 Td (? Maintained detailed electronic records and documentation while ensuring accuracy,) Tj ET
+BT /F1 8.8 Tf 58 276.0 Td (  confidentiality, and compliance with organizational policies.) Tj ET
+BT /F1 8.8 Tf 58 264.6 Td (? Managed relationships with more than 40 automotive dealers and acted as a key point of) Tj ET
+BT /F1 8.8 Tf 58 253.2 Td (  contact for inquiries, issue resolution, and case follow-up.) Tj ET
+BT /F1 8.8 Tf 58 241.8 Td (? Communicated complex financial decisions, requirements, and next steps clearly to) Tj ET
+BT /F1 8.8 Tf 58 230.4 Td (  clients and stakeholders.) Tj ET
+BT /F1 8.8 Tf 58 219.0 Td (? Worked in a regulated environment requiring attention to detail, policy adherence,) Tj ET
+BT /F1 8.8 Tf 58 207.6 Td (  documentation accuracy, and customer trust.) Tj ET
+BT /F1 8.8 Tf 58 196.2 Td (? Improved client and partner satisfaction through timely communication, accurate) Tj ET
+BT /F1 8.8 Tf 58 184.8 Td (  assessments, and effective issue resolution.) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 159.4 Td (EDUCATION & CERTIFICATIONS) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 152.4 m 564 152.4 l S 0 0 0 RG
+BT /F1 8.8 Tf 58 140.4 Td (? Project Management Professional \(PMP\) Certification - 2025) Tj ET
+BT /F1 8.8 Tf 58 129.0 Td (? ServiceNow Micro-Certification - Completed 2025) Tj ET
+BT /F1 8.8 Tf 58 117.6 Td (? Salesforce Administrator Certification - In progress) Tj ET
+BT /F1 8.8 Tf 58 106.2 Td (? AI Governance Professional \(AIGP\) - In progress) Tj ET
+BT /F1 8.8 Tf 58 94.8 Td (? Ryerson University - Fundamentals of Project Management) Tj ET
+BT /F1 8.8 Tf 58 83.4 Td (? Canadian Securities Course \(CSC\) - Mutual Funds) Tj ET
+BT /F1 8.8 Tf 58 72.0 Td (? Rhodes University, South Africa - Bachelor of Social Science in Economics \(Honours\),) Tj ET
+BT /F1 8.8 Tf 58 60.6 Td (  Sociology, Organizational Psychology) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 931 >>
+stream
+BT /F1 8.8 Tf 58 750.0 Td (? QuickBooks Accounting Software Certificate) Tj ET
+BT /F1 8.8 Tf 58 738.6 Td (? H&R Block Federal Income Tax for Canada Certificate) Tj ET
+BT /F1 8.8 Tf 58 727.2 Td (? IFRS 9 Financial Instruments) Tj ET
+0.0 0.49 0.49 rg
+BT /F2 10.5 Tf 48 701.8 Td (TECHNICAL TOOLS) Tj ET
+0 0 0 rg
+0.82 0.90 0.90 RG 48 694.8 m 564 694.8 l S 0 0 0 RG
+BT /F1 9.2 Tf 48 682.8 Td (AI and automation: n8n, Zapier, Claude, ChatGPT, Gemini Search, Microsoft Copilot, Hermes) Tj ET
+BT /F1 9.2 Tf 48 671.0 Td (CRM and platforms: Salesforce, ServiceNow, Google Sheets, Google Docs, Google Workspace,) Tj ET
+BT /F1 9.2 Tf 48 659.2 Td (Microsoft 365) Tj ET
+BT /F1 9.2 Tf 48 647.4 Td (Project and workflow tools: Jira, Asana, Monday.com, Trello, Microsoft Project) Tj ET
+BT /F1 9.2 Tf 48 635.6 Td (Reporting and productivity: Excel, PowerPoint, Word, dashboards, trackers, executive) Tj ET
+BT /F1 9.2 Tf 48 623.8 Td (reporting) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
 xref
-0 6
+0 13
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
-0000000115 00000 n 
-0000000241 00000 n 
-0000000311 00000 n 
-trailer << /Size 6 /Root 1 0 R >>
+0000000133 00000 n 
+0000000271 00000 n 
+0000005792 00000 n 
+0000005930 00000 n 
+0000011688 00000 n 
+0000011826 00000 n 
+0000017555 00000 n 
+0000017694 00000 n 
+0000018677 00000 n 
+0000018748 00000 n 
+trailer << /Size 13 /Root 1 0 R >>
 startxref
-2435
+18824
 %%EOF
