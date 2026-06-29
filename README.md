@@ -1,2 +1,65 @@
-# faaria-ai-support-qa-portfolio
-Faaria Jessani AI automation and AI support QA portfolio landing page for employment applications.
+# Faaria Jessani — AI Automation & AI Quality Portfolio Landing Page
+
+This is a static portfolio landing page tailored for AI Support Quality / Automated Customer Experience roles, specifically the Super.com job description provided.
+
+## Purpose
+
+The page showcases Faaria's hands-on AI projects in a way that connects directly to:
+
+- AI agent quality assurance
+- customer interaction review
+- escalation and handoff evaluation
+- hallucination and failure-mode detection
+- operational auditing
+- QA reporting frameworks
+- prompt, workflow, and guardrail improvement
+
+## Files
+
+- `index.html` — landing page content and structure
+- `styles.css` — responsive visual design
+- `assets/og-portfolio.svg` — Open Graph preview image
+- `assets/favicon.svg` — simple favicon
+- `PROJECT_NOTES.md` — source notes from workflow documents used to create the copy
+
+## Local preview
+
+From this folder, run:
+
+```bash
+python3 -m http.server 8080
+```
+
+Then open:
+
+```text
+http://localhost:8080
+```
+
+## CTA placeholders to update
+
+Current CTA uses:
+
+```text
+mailto:faariajess@gmail.com
+```
+
+Replace or add:
+
+- LinkedIn profile URL
+- Resume URL
+- Calendar booking link
+- GitHub or project repository links
+- Public Claude / n8n screenshots or Loom walkthroughs
+
+## Recommended deployment
+
+This is a plain static site. Deploy with any of these:
+
+- Vercel: Framework Preset `Other`, output directory `.`
+- Netlify: drag-and-drop this folder or connect a GitHub repo
+- GitHub Pages: push files to a repo and enable Pages from the main branch
+
+## Notes
+
+The page intentionally avoids fake testimonials, fake numbers, and unsupported claims. Add metrics only if you have verified them.
