@@ -41,7 +41,7 @@ http://localhost:8080
 Current CTA uses:
 
 ```text
-mailto:faariajess@gmail.com
+mailto:faariaj786@gmail.com
 ```
 
 Replace or add:
