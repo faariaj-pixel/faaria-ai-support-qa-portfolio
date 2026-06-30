@@ -7,12 +7,12 @@
   <circle cx="1050" cy="80" r="220" fill="#72e5e5" opacity="0.18"/>
   <circle cx="140" cy="560" r="260" fill="#f5c76b" opacity="0.15"/>
   <rect x="80" y="82" width="1040" height="466" rx="42" fill="#ffffff" opacity="0.93" filter="url(#shadow)"/>
-  <text x="128" y="160" fill="#007d7d" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3">AI AUTOMATION • AI QUALITY • OPERATIONS</text>
+  <text x="128" y="160" fill="#007d7d" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="3">AI AUTOMATION • IMPLEMENTATION • OPERATIONS</text>
   <text x="128" y="265" fill="#0b1f33" font-family="Arial, sans-serif" font-size="74" font-weight="900">Faaria Jessani</text>
   <text x="128" y="345" fill="#112d47" font-family="Arial, sans-serif" font-size="44" font-weight="700">AI Workflow Automation Portfolio</text>
-  <text x="128" y="420" fill="#3f5063" font-family="Arial, sans-serif" font-size="30">Claude analytics • n8n agents • QA guardrails • reporting frameworks</text>
+  <text x="128" y="420" fill="#3f5063" font-family="Arial, sans-serif" font-size="30">Claude analytics • n8n agents • implementation systems • reporting</text>
   <g transform="translate(130 466)">
     <rect width="160" height="48" rx="24" fill="#0b1f33"/><text x="35" y="32" fill="#ffffff" font-family="Arial" font-size="18" font-weight="700">View Projects</text>
-    <rect x="178" width="210" height="48" rx="24" fill="#e5f7f7"/><text x="215" y="32" fill="#0b1f33" font-family="Arial" font-size="18" font-weight="700">AI Support QA Fit</text>
+    <rect x="178" width="250" height="48" rx="24" fill="#e5f7f7"/><text x="210" y="32" fill="#0b1f33" font-family="Arial" font-size="18" font-weight="700">Implementation Fit</text>
   </g>
 </svg>

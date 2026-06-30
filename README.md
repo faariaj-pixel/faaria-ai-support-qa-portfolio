@@ -1,18 +1,17 @@
-# Faaria Jessani — AI Automation & AI Quality Portfolio Landing Page
+# Faaria Jessani — AI Automation & Implementation Portfolio Landing Page
 
-This is a static portfolio landing page tailored for AI Support Quality / Automated Customer Experience roles, specifically the Super.com job description provided.
+This is a static portfolio landing page tailored for customer implementation, project implementation, and AI automation roles.
 
 ## Purpose
 
 The page showcases Faaria's hands-on AI projects in a way that connects directly to:
 
-- AI agent quality assurance
-- customer interaction review
-- escalation and handoff evaluation
-- hallucination and failure-mode detection
-- operational auditing
-- QA reporting frameworks
-- prompt, workflow, and guardrail improvement
+- customer implementation for AI-enabled workflows
+- project implementation and stakeholder coordination
+- workflow discovery, documentation, and adoption
+- operational reporting and improvement loops
+- prompt, workflow, and guardrail design
+- business-to-technical translation
 
 ## Files
 
