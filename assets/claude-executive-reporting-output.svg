@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0b1f33"/><stop offset="1" stop-color="#eafafa"/></linearGradient>
+    <filter id="s"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg)"/>
+  <text x="70" y="84" font-family="Arial" font-size="34" font-weight="800" fill="#72e5e5">Claude Executive Reporting Output</text>
+  <text x="70" y="124" font-family="Arial" font-size="20" fill="#f7f4ee">Presentation-ready KPI summary for account, customer, and operational review</text>
+
+  <rect x="70" y="180" width="1060" height="470" rx="30" fill="#ffffff" opacity="0.96" filter="url(#s)"/>
+  <text x="110" y="238" font-family="Arial" font-size="30" font-weight="800" fill="#0b1f33">Monthly Performance Summary</text>
+  <text x="110" y="274" font-family="Arial" font-size="18" fill="#3f5063">Dashboard-style output generated from cleaned sales and inventory data</text>
+
+  <g transform="translate(110 325)">
+    <rect width="215" height="120" rx="22" fill="#eafafa"/>
+    <text x="24" y="46" font-family="Arial" font-size="18" font-weight="800" fill="#007d7d">Revenue</text>
+    <text x="24" y="88" font-family="Arial" font-size="34" font-weight="900" fill="#0b1f33">KPI Card</text>
+  </g>
+  <g transform="translate(350 325)">
+    <rect width="215" height="120" rx="22" fill="#f7f4ee"/>
+    <text x="24" y="46" font-family="Arial" font-size="18" font-weight="800" fill="#007d7d">Margin</text>
+    <text x="24" y="88" font-family="Arial" font-size="34" font-weight="900" fill="#0b1f33">KPI Card</text>
+  </g>
+  <g transform="translate(590 325)">
+    <rect width="215" height="120" rx="22" fill="#eafafa"/>
+    <text x="24" y="46" font-family="Arial" font-size="18" font-weight="800" fill="#007d7d">Orders</text>
+    <text x="24" y="88" font-family="Arial" font-size="34" font-weight="900" fill="#0b1f33">KPI Card</text>
+  </g>
+  <g transform="translate(830 325)">
+    <rect width="250" height="120" rx="22" fill="#f7f4ee"/>
+    <text x="24" y="46" font-family="Arial" font-size="18" font-weight="800" fill="#007d7d">Top Accounts</text>
+    <text x="24" y="88" font-family="Arial" font-size="34" font-weight="900" fill="#0b1f33">Ranked View</text>
+  </g>
+
+  <rect x="110" y="490" width="450" height="92" rx="22" fill="#0b1f33" opacity="0.94"/>
+  <text x="138" y="530" font-family="Arial" font-size="22" font-weight="800" fill="#72e5e5">Executive Summary</text>
+  <text x="138" y="560" font-family="Arial" font-size="16" fill="#f7f4ee">Key trends, risks, and recommended next steps</text>
+
+  <rect x="600" y="490" width="480" height="92" rx="22" fill="#0b1f33" opacity="0.94"/>
+  <text x="628" y="530" font-family="Arial" font-size="22" font-weight="800" fill="#72e5e5">Business Review Ready</text>
+  <text x="628" y="560" font-family="Arial" font-size="16" fill="#f7f4ee">Clear enough for stakeholder updates and account conversations</text>
+
+  <text x="70" y="700" font-family="Arial" font-size="18" fill="#f7f4ee">Relevance: reporting discipline, performance insights, account review preparation, and decision-ready communication.</text>
+</svg>
