@@ -17,14 +17,14 @@
 
 Faaria helps service-based businesses and operational teams reduce manual work, improve process efficiency, and adopt AI confidently using practical workflow automation, project management discipline, and business-first implementation support.
 
-## Job description themes reflected
+## Role themes reflected
 
-- Review and audit AI chat/voice interactions
-- Identify customer experience risk, escalation failures, policy gaps, conversational breakdowns
-- Monitor hallucinations, loops, incorrect resolutions, and poor handoffs
-- Analyze interactions for business/customer insights
-- Partner with product, operations, engineering, QA, and conversation design
-- Build automated reporting frameworks and quality monitoring guardrails
+- Support customer onboarding, implementation readiness, and adoption
+- Translate customer and business needs into clear workflow requirements
+- Identify process gaps, handoff issues, documentation needs, and operational risks
+- Analyze operating data and customer/business context for useful insights
+- Partner with product, operations, engineering, customer success, implementation, and business stakeholders
+- Build repeatable reporting frameworks and implementation support materials
 
 ## Projects summarized
 

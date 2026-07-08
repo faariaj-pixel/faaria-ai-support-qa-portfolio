@@ -1,17 +1,17 @@
-# Faaria Jessani — AI Automation & Implementation Portfolio Landing Page
+# Faaria Jessani — Account Management, Implementation & AI Automation Portfolio Landing Page
 
-This is a static portfolio landing page tailored for customer implementation, project implementation, and AI automation roles.
+This is a static portfolio landing page tailored for Account Management, Customer Success, Customer/Client Implementation, Project Implementation, Customer Operations, and AI-enabled process improvement roles.
 
 ## Purpose
 
 The page showcases Faaria's hands-on AI projects in a way that connects directly to:
 
-- customer implementation for AI-enabled workflows
-- project implementation and stakeholder coordination
-- workflow discovery, documentation, and adoption
-- operational reporting and improvement loops
-- prompt, workflow, and guardrail design
-- business-to-technical translation
+- account management, customer/client onboarding, and implementation readiness
+- workflow discovery and process improvement
+- client relationship management, stakeholder coordination, and business-to-technical translation
+- escalation, handoff, and adoption planning
+- account/customer updates, business reviews, operational reporting, performance analysis, and implementation tracking
+- AI-enabled workflow automation and documentation
 
 ## Files
 
